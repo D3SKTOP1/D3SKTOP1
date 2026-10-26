@@ -1,6 +1,6 @@
 ### Hi, I'm Vitor 👋
 
-**AI & Software Engineer · Co-founder & CTO at [SolverCam](https://solvercam.com)** · Curitiba, Brazil → open to roles in the 🇳🇱 Netherlands, 🇩🇪 Germany, 🇱🇺 Luxembourg and remote-EU
+**AI & Software Engineer · Co-founder & CTO at [SolverCam](https://solvercam.com)** (NVIDIA Inception member) · Curitiba, Brazil → open to roles in the 🇳🇱 Netherlands, 🇩🇪 Germany, 🇱🇺 Luxembourg and remote-EU
 
 I build systems that turn manual operations into automated, measurable workflows — from computer vision running on edge devices to AI-powered SaaS, e-commerce and integrations.
 
@@ -24,7 +24,8 @@ I build systems that turn manual operations into automated, measurable workflows
 
 #### 🧰 Toolbox
 
-**AI / CV:** Computer vision (detection, tracking), NVIDIA Jetson · DeepStream · TensorRT, OpenCV, YOLO, RAG, LLM tool calling (Claude, OpenAI)
+**NVIDIA edge AI:** Jetson Orin Nano (production fleet) · DeepStream · TensorRT · PeopleNet · NvDCF tracker
+**AI / CV:** Computer vision (detection, tracking), OpenCV, YOLO, RAG, LLM tool calling (Claude, OpenAI)
 **Backend:** Python, FastAPI, Node.js, PostgreSQL, pgvector, Redis/BullMQ, Prisma, Supabase
 **Frontend & mobile:** TypeScript, React, Next.js, Tailwind, React Native (Expo), Kotlin
 **Infra:** Docker, Linux, Tailscale, GitHub Actions, Vercel
