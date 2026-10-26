@@ -1,6 +1,6 @@
 ### Hi, I'm Vitor 👋
 
-**AI & Software Engineer · Co-founder & CTO at [SolverCam](https://solvercam.com)** (NVIDIA Inception member) · Curitiba, Brazil → open to roles in the 🇳🇱 Netherlands, 🇩🇪 Germany, 🇱🇺 Luxembourg and remote-EU
+**AI & Software Engineer · Co-founder & CTO at [SolverCam](https://solvercam.com)** (NVIDIA Inception member) · Curitiba, Brazil → open to roles anywhere in Europe 🇪🇺 (on-site, hybrid or remote)
 
 I build systems that turn manual operations into automated, measurable workflows — AI apps and agents, integrations, full-stack products and edge AI.
 
