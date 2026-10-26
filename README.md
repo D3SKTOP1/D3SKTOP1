@@ -2,7 +2,9 @@
 
 **AI & Software Engineer · Co-founder & CTO at [SolverCam](https://solvercam.com)** (NVIDIA Inception member) · Curitiba, Brazil → open to roles in the 🇳🇱 Netherlands, 🇩🇪 Germany, 🇱🇺 Luxembourg and remote-EU
 
-I build systems that turn manual operations into automated, measurable workflows — from computer vision running on edge devices to AI-powered SaaS, e-commerce and integrations.
+I build systems that turn manual operations into automated, measurable workflows — AI apps and agents, integrations, full-stack products and edge AI.
+
+🌐 **Portfolio with live demos: [vitorportela.vercel.app](https://vitorportela.vercel.app)** (EN · PT · ES)
 
 ---
 
@@ -32,4 +34,4 @@ I build systems that turn manual operations into automated, measurable workflows
 
 #### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/mvitorportela/) · 🇧🇷 Portuguese (native) · 🇬🇧 English · 🇪🇸 Spanish (intermediate)
+[Portfolio](https://vitorportela.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mvitorportela/) · 🇧🇷 Portuguese (native) · 🇬🇧 English · 🇪🇸 Spanish (intermediate)
